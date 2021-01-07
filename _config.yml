@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Fun with Github
+url: https://ux-at-icfnext.github.io/funwithgithub
+baseurl: "/funwithgithub"
